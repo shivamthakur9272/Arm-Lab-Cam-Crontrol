@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+hand_landmarker.task
+camera_settings.json
+arm_lab_stats.json
